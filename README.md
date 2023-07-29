@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmad!
-- 👀 I’m interested in all sorts of Software Engineering. Web development, Android/iOS development. I've also been exploring machine learning for a while now.
-- 🌱 I’m currently learning Natural Language Processing (NLP), with a focus on unsupervised and self-supervised methods.
+- 👀 I’m a software engineer interested in web development, and machine learning engineering. 
+- 🎓 I have a Master's in computer science from UofT, and a Bachelor's in software engineering from the University of Tehran.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: a.pourihosseini@gmail.com
 
