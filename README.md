@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmad!
-- 👀 I’m a software engineer interested in web development, and machine learning engineering. 
+- 👀 I’m a software engineer interested in web development on all ends of the stack and machine learning! 
 - 🎓 I have a Master's in computer science from UofT, and a Bachelor's in software engineering from the University of Tehran.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: a.pourihosseini@gmail.com
